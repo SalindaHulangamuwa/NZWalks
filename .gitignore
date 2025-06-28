@@ -1,0 +1,29 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.Designer.cs.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.pdb
+*.dll
+*.obj
+*.log
+*.bak
+*.zip
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Rider and other IDEs
+.idea/
+*.swp
+
+# Any other files you want to ignore (e.g., local database files)
+*.mdf
+*.ldf
